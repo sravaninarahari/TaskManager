@@ -1,0 +1,25 @@
+.task-item-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-family: Roboto;
+  color: #ffffff;
+  background-color: #1a171d;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  list-style-type: none;
+  padding: 20px;
+}
+.item-button {
+  height: 30px;
+  width: 120px;
+  background-color: #f3aa4e;
+  color: #ffffff;
+  align-self: center;
+  border-width: 0px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 15px;
+  padding: 5px;
+}
